@@ -1,4 +1,4 @@
-### Hola Soy Miguel Angel desarrollador web en formación, desde el 2019 inicie en el mundo de la programación con los siguientes lenguajes php y javascript.
+### Hola Soy Miguel Angel desarrollador web 
 
 <!--
 **MacdogX/MacdogX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
