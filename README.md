@@ -1,4 +1,4 @@
-### Hola Soy Miguel Angel desarrollador web 
+### Hola Soy Miguel Angel desarrollador Software
 
 <!--
 **MacdogX/MacdogX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
