@@ -1,4 +1,8 @@
-### Hola Soy Miguel Angel Ingeniero de Software
+### Hello, I'm Miguel Angel 
+### I love the code, I work full stack for a company
+### 
+###
+###
 
 <!--
 **MacdogX/MacdogX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
