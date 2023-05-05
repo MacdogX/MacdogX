@@ -1,6 +1,6 @@
 ---
 ### Hello, I'm Miguel Angel 
-### I love the code, I work full stack for a company
+### I love coding, I work full stack for a company
 ### 
 ---
 -💬Ask me about PHP, laravel, sql
