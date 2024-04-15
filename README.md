@@ -12,7 +12,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40">&nbsp;
 </div>
